@@ -1,20 +1,20 @@
 
 ![plot](./images/header_gif.gif)
-<h1 align="center">Hi 👋, I'm Bughacker</h1>
-<h3 align="center"><b>A curious Software/Cybersecurity Engineer from Nigeria</b></h3>
+<h1 align="center">Hi 👋, I'm Emem Etim</h1>
+<h3 align="center"><b>A curious Software/AI Engineer from Nigeria</b></h3>
 <p></p>
 
 I'm a passionate Engimeer looking to build, implement, secure  and launch cool projects. I have been trained in different programming languages such as C, Python, and Javascript, php, brainfuck, typescript, gaining excellent problem-solving skills. Also, I have knowledge in the most important areas of a business, such as marketing, finance, economics, business intelligence, and strategy. This means that I not only understand the business value of a process but also the workflow and coding relate to it. I have the ability to sit with a customer, understand their desires, target the problem, and participate in the coding process behind it and also as a Cybersecurity Engineer I van build, deploy, secure and destroy any software I set my mind on.
 
-⚡ **If I like it, I will do it no matter what!**
+⚡ **If I love it, I will do it no matter what!**
 
 <p>&nbsp</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bughacker001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bughacker001/" height="30" width="40" /></a>
-<a href="https://twitter.com/buhacker001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bughacker001" height="30" width="40" /></a>
-<a href="https://medium.com/@santiagobedoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@bughacker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emem-etim-721b6a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emem-etim-721b6a273/" height="30" width="40" /></a>
+<a href="https://twitter.com/codeboxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/codeboxz" height="30" width="40" /></a>
+
 </p>
 <p></p>
 
